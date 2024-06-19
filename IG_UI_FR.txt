@@ -1,0 +1,5 @@
+IG_UI_FR = {
+
+	IGUI_VehiclePartWindowBackLeft = "Vitre arrière gauche",
+	IGUI_VehiclePartWindowBackRight = "Vitre arrière droite",
+}
