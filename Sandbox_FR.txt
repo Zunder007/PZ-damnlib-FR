@@ -1,0 +1,5 @@
+Sandbox_FR = {
+	Sandbox_DAMN_Options = "damnlib | Options",
+	Sandbox_DAMN_AllowVanillaVehicleDismantling = "Activer le recyclage des pièces de véhicules du jeu de base",
+    Sandbox_DAMN_AllowVanillaWorldItemDismantling = "Permettre le recyclage des fenêtres et des miroirs de la maison",
+}
