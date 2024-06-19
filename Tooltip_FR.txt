@@ -1,0 +1,43 @@
+Tooltip_FR = {
+
+	/* runFlat */
+
+	Tooltip_item_runFlatTire = "Pneu de qualité militaire qui n'éclatera jamais mais perdra de la traction lorsque les conditions sont mauvaises.",
+	Tooltip_item_oldrunFlatTire = "Ancien pneu anti-crevaison pouvant être converti dans le nouveau type.",
+
+	/* damnCraft */
+
+	Tooltip_item_damnSteelRim = "Type de jante de base utilisé pour la fabrication de pneus.",
+	Tooltip_item_damnTireRubber = "Le caoutchouc des pneus est utilisé pour la fabrication de pneus. L’état du caoutchouc du pneu affectera l’état du pneu fabriqué.",
+	Tooltip_item_damnTireMount = "Le support pour pneu en caoutchouc permet d'économiser de l'espace lorsque l'on stock du caoutchouc pour pneu.",
+	Tooltip_item_damnGlassPane = "Verre à façonner avec un scalpel pour fabriquer des vitrages de véhicules."
+	Tooltip_item_damnHandle = "Poignée utilisée pour la fabrication de portières de véhicules."
+	Tooltip_item_damnHinge = "Charnière utilisée pour la fabrication de portières de véhicules."
+	Tooltip_item_damnRubberStrip = "Bandes de caoutchouc utilisées pour la fabrication de pare-brise et de portières de véhicules."
+	Tooltip_item_damnSeatFabric = "Tissu de siège utilisé pour la fabrication des sièges de véhicules."
+	Tooltip_item_damnSeatFoam = "Mousse de siège utilisée pour la fabrication de sièges de véhicules."
+	Tooltip_item_damnSeatFrame = "Cadre de siège utilisé pour la fabrication de sièges de véhicules."
+
+	Tooltip_item_damnSchematicsBox = "Collection de schémas pour la fabrication de pièces de véhicules",
+	Tooltip_item_damnWindowSchematics = "Schémas pour la fabrication de vitrages de véhicules",
+	Tooltip_item_damnDoorSchematics = "Schémas pour la fabrication de portières de véhicules",
+	Tooltip_item_damnHoodSchematics = "Schémas pour la fabrication de capots de véhicules",
+	Tooltip_item_damnTrunkLidSchematics = "Schémas pour la fabrication de coffres de véhicules",
+	Tooltip_item_damnSeatSchematics = "Schémas pour la fabrication de sièges de véhicules",
+	Tooltip_item_damnRimSchematics = "Schémas pour la fabrication de jantes de véhicules",
+	Tooltip_item_damnMufflerSchematics = "Schémas pour la fabrication de silencieux de véhicule",
+	Tooltip_item_damnBumperSchematics = "Schémas pour la fabrication de pare-chocs de véhicules",
+
+	Tooltip_item_damnTireRepairKit = "Ensemble d'outils pour la réparation des pneus lorsqu'on est sur la route.",
+	Tooltip_item_damnTireRepairTools = "Outil principal du kit de réparation de pneus, nécessite une solution de caoutchouc et des bandes de réparation pour réparer les pneus.",
+	Tooltip_item_damnTireRepairSolution = "L'un des trois composants du kit de réparation de pneus, nécessite des outils de réparation et des bandes de réparation pour réparer les pneus.",
+	Tooltip_item_damnTireRepairStrips = "L'un des trois composants du kit de réparation de pneus, nécessite des outils de réparation et une solution de caoutchouc pour réparer les pneus.",
+
+	Tooltip_item_damnPlasticWeldingKit = "Ensemble d'outils pour la réparation de pièces en plastique lorsqu'on est sur la route.",
+	Tooltip_item_damnPlasticWeldingGun = "Outil principal du kit de soudage du plastique, nécessite une batterie et des agrafes de soudage.",
+	Tooltip_item_damnPlasticWeldingStaples = "L'un des deux composants du kit de soudage du plastique, nécessite l'utilisation d'un pistolet de soudage alimenté par batterie pour la réparation des pièces en plastique.",
+
+	/* USMIL */
+
+
+}
