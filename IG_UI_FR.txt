@@ -2,4 +2,7 @@ IG_UI_FR = {
 
 	IGUI_VehiclePartWindowBackLeft = "Vitre arrière gauche",
 	IGUI_VehiclePartWindowBackRight = "Vitre arrière droite",
+
+	IGUI_CraftCategory_Armoring = "Blindage",
+	IGUI_CraftCategory_Recycling = "Recyclage",
 }
