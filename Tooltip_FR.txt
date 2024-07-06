@@ -25,8 +25,9 @@ Tooltip_FR = {
 	Tooltip_item_damnTrunkLidSchematics = "Schémas pour la fabrication de coffres de véhicules",
 	Tooltip_item_damnSeatSchematics = "Schémas pour la fabrication de sièges de véhicules",
 	Tooltip_item_damnRimSchematics = "Schémas pour la fabrication de jantes de véhicules",
-	Tooltip_item_damnMufflerSchematics = "Schémas pour la fabrication de silencieux de véhicule",
+	Tooltip_item_damnMufflerSchematics = "Schémas pour la fabrication de silencieux de véhicules",
 	Tooltip_item_damnBumperSchematics = "Schémas pour la fabrication de pare-chocs de véhicules",
+    Tooltip_item_damnBodyworkSchematics = "Schémas pour la fabrication de carrosseries diverses de véhicules",
 
 	Tooltip_item_damnTireRepairKit = "Ensemble d'outils pour la réparation des pneus lorsqu'on est sur la route.",
 	Tooltip_item_damnTireRepairTools = "Outil principal du kit de réparation de pneus, nécessite une solution de caoutchouc et des bandes de réparation pour réparer les pneus.",
