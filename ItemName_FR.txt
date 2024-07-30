@@ -83,4 +83,6 @@ ItemName_FR = {
 	ItemName_runFlat.MediumTire = "Pneu anti-crevaison (Moyen)",
 	ItemName_runFlat.ModernTire = "Pneu anti-crevaison (Moderne)",
 	ItemName_runFlat.SmallTire = "Pneu anti-crevaison (Petit)",
+	ItemName_damnCraft.SmallTire1 = "Pneu universel (Petit)",
+	ItemName_damnCraft.SmallTire2 = "Pneu universel (Petit)",
 }
